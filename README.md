@@ -1,6 +1,6 @@
+### [Click Here](https://githubfinder142.netlify.com/) to view the project
 ## Starting the Project
 
-In the project directory, you can run:
 
 ### `npm start`
 
