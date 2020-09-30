@@ -8,5 +8,5 @@ Tech Stack:
 - Bootstrap 
 - Netlify Hosting Service
 <br>
-<br>
-[Click Here](https://githubfinder142.netlify.com/) to view the project
+Click the below link to view the project.<br />
+https://githubfinder142.netlify.com/
